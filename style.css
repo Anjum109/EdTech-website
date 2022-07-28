@@ -1,3 +1,21 @@
+.header-font {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 4vw;
+}
+
+.header-font-p {
+    font-size: 2vw;
+}
+
+.header-font-2 {
+    font-size: 3vw;
+}
+
+.header-font-p-2 {
+    font-size: 1vw;
+}
+
+
 .carousel-item::before {
     content: "";
     position: absolute;
