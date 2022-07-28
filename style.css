@@ -8,3 +8,11 @@
     background: #000;
     opacity: 0.7;
 }
+
+.text-line {
+    text-decoration: none;
+}
+
+.question-pattern:hover {
+    background-color: #9dc1f675;
+}
